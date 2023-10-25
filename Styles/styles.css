@@ -1,0 +1,49 @@
+h1{
+            color: red;
+            display: inline;
+            background-color: brown;
+            font-style: oblique ;
+        }
+        /* use dot ( . ) for classes and hashtag (#) for ids */
+        /* RGBA for color styling */
+       .red{
+            color:rgba(155,155,155,0.5);
+        }
+        #orange{
+            border: 15px dashed black;
+            color:orange;
+        }
+
+        /* 
+        display: inline or block or inline-block
+        margin: and padding: is diffrent
+
+        typography: font style, size, weight
+
+        positioning and layout
+
+        position: absolute???
+
+        text-shadow: sheesh
+
+        self study grid on css
+        */
+
+.div-1{
+  width:;
+  height:;
+  background-color: ;   
+}
+
+.div-2{
+  width:;
+  height:;
+  background-color: ;   
+}
+
+.div-3{
+  width:;
+  height:;
+  background-color: ;   
+}
+    
